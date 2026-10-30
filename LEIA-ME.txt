@@ -1,0 +1,16 @@
+CLINIPET PIÊN — SITE INSTITUCIONAL
+
+1. Abra index.html no navegador para testar.
+2. Publique o conteúdo desta pasta na pasta public_html da hospedagem.
+3. Mantenha a pasta assets junto do arquivo index.html.
+
+WHATSAPP: (41) 3632-1177. Todos os botões usam https://wa.me/554136321177.
+
+ATENÇÃO ANTES DE PUBLICAR:
+- Confirmar informações dos serviços, horários de banho e tosa e área atendida pelo TaxiDog.
+- Completar endereço físico, se desejar (não foi fornecido).
+- Fotografias decorativas de animais vêm de Unsplash e exigem acesso à internet. Recomenda-se substituir por fotografias próprias da clínica.
+- A logomarca foi recortada da imagem enviada; para máxima qualidade, substitua por logo oficial PNG/SVG de alta resolução.
+- O site não tem backend nem agenda online; o contato e a solicitação de atendimento são via WhatsApp.
+
+Tecnologia: HTML + CSS + JavaScript. Site responsivo, sem dependências de build.
