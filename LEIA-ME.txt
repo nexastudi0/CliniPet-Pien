@@ -14,3 +14,5 @@ ATENÇÃO ANTES DE PUBLICAR:
 - O site não tem backend nem agenda online; o contato e a solicitação de atendimento são via WhatsApp.
 
 Tecnologia: HTML + CSS + JavaScript. Site responsivo, sem dependências de build.
+
+VERSÃO 2: mapa Google Maps fornecido pela clínica, seleção interativa de atendimento, links por serviço, cards com movimento 3D, progresso de navegação e animações extras.
