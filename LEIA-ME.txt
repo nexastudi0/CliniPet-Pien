@@ -16,3 +16,9 @@ ATENÇÃO ANTES DE PUBLICAR:
 Tecnologia: HTML + CSS + JavaScript. Site responsivo, sem dependências de build.
 
 VERSÃO 2: mapa Google Maps fornecido pela clínica, seleção interativa de atendimento, links por serviço, cards com movimento 3D, progresso de navegação e animações extras.
+
+VERSÃO 3: abertura responsiva com movimento e barra de progresso, independente do carregamento de imagens externas. Substitua index.html e mantenha assets. Após publicar, use Ctrl+F5 no computador. Em modo de movimento reduzido, animações são desativadas por acessibilidade.
+
+V4: carrossel circular de serviços, rotação automática, navegação manual, toque e pausa.
+
+V5: nova arte de abertura WebP, barra funcional por etapas de carregamento e layout adaptado para celular. Substitua index.html e envie assets/abertura-clinipet.webp junto.
